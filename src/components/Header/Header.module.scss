@@ -1,0 +1,18 @@
+.header {
+  background-image: url('../../assets/pattern-bg.png');
+  height: 33vh;
+  background-size: cover;
+
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h1 {
+      color: white;
+      margin: 1rem 0;
+      text-align: center;
+    }
+  }
+}
